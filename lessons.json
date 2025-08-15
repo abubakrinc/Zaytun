@@ -1,0 +1,386 @@
+[
+  {
+    "id": "2",
+    "pic": "null",
+    "name": "Aqiydaviy darslar silsilasidan",
+    "count": 60,
+    "category": "ayollar",
+    "continue": "false"
+  },
+  {
+    "id": "3",
+    "pic": "null",
+    "name": "Allohning shariatini hokim qilish ahamiyati",
+    "count": 45,
+    "category": "hukm",
+    "continue": "false"
+  },
+  {
+    "id": "4",
+    "pic": "null",
+    "name": "Namoz va uni tark qiluvchining hukmi",
+    "count": 39,
+    "category": "fiqh",
+    "continue": "false"
+  },
+  {
+    "id": "5",
+    "pic": "null",
+    "name": "Islomni buzuvchi amallar sharh",
+    "count": 35,
+    "category": "aqida",
+    "continue": "false"
+  },
+  {
+    "id": "6",
+    "pic": "null",
+    "name": "Mustalah ilmi",
+    "count": 26,
+    "category": "hadis",
+    "continue": "false"
+  },
+  {
+    "id": "7",
+    "pic": "null",
+    "name": "Ayollar uchun maxsus silsilaviy darsliklar",
+    "count": 33,
+    "category": "ayollar",
+    "continue": "false"
+  },
+  {
+    "id": "8",
+    "pic": "null",
+    "name": "Talbisul iblis kitob",
+    "count": 54,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "9",
+    "pic": "null",
+    "name": "Roful malam anil aimmatil a'lam",
+    "count": 12,
+    "category": "aqida",
+    "continue": "false"
+  },
+  {
+    "id": "10",
+    "pic": "null",
+    "name": "Sahih musnad Tolib ilmlarga",
+    "count": 102,
+    "category": "hadis",
+    "continue": "false"
+  },
+  {
+    "id": "11",
+    "pic": "null",
+    "name": "Tavhid ilmi",
+    "count": 93,
+    "category": "aqida",
+    "continue": "false"
+  },
+  {
+    "id": "12",
+    "pic": "null",
+    "name": "Aqiydatul vasitiyya",
+    "count": 40,
+    "category": "aqida",
+    "continue": "false"
+  },
+  {
+    "id": "13",
+    "pic": "null",
+    "name": "Usul fiqh darsi silsilasi",
+    "count": 73,
+    "category": "fiqh",
+    "continue": "false"
+  },
+  {
+    "id": "15",
+    "pic": "null",
+    "name": "Ahli Sunna val Jamoaning e'tiqod asoslari",
+    "count": 146,
+    "category": "aqida",
+    "continue": "false"
+  },
+  {
+    "id": "16",
+    "pic": "null",
+    "name": "G'ulom izidan hidoyat",
+    "count": 27,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "17",
+    "pic": "null",
+    "name": "Avloviyyat darslari",
+    "count": 63,
+    "category": "fiqh",
+    "continue": "false"
+  },
+  {
+    "id": "18",
+    "pic": "null",
+    "name": "Latoif. Qamariy oylar vazifalari",
+    "count": 50,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "19",
+    "pic": "null",
+    "name": "Nusrat asoslari darsi",
+    "count": 83,
+    "category": "siyosiy",
+    "continue": "false"
+  },
+  {
+    "id": "20",
+    "pic": "null",
+    "name": "Fitan va Malhamalar",
+    "count": 46,
+    "category": "tarix",
+    "continue": "false"
+  },
+  {
+    "id": "21",
+    "pic": "null",
+    "name": "Fiqh qoidalari",
+    "count": 58,
+    "category": "fiqh",
+    "continue": "false"
+  },
+  {
+    "id": "22",
+    "pic": "null",
+    "name": "Muslima Ayollarga tegishli ahkomlar",
+    "count": 60,
+    "category": "ayollar",
+    "continue": "false"
+  },
+  {
+    "id": "23",
+    "pic": "null",
+    "name": "Kitman. Maxfiylik ahamiyati",
+    "count": 11,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "24",
+    "pic": "null",
+    "name": "Olim va Muta'allim",
+    "count": 31,
+    "category": "odob",
+    "continue": "false"
+  },
+  {
+    "id": "25",
+    "pic": "null",
+    "name": "Qur'on Tafsiri Asoslari",
+    "count": 66,
+    "category": "tafsir",
+    "continue": "false"
+  },
+  {
+    "id": "26",
+    "pic": "null",
+    "name": "Suhbat Odoblari",
+    "count": 24,
+    "category": "odob",
+    "continue": "false"
+  },
+  {
+    "id": "27",
+    "pic": "null",
+    "name": "Ilmga Ishtiyoq",
+    "count": "null",
+    "category": "odob",
+    "continue": "false"
+  },
+  {
+    "id": "28",
+    "pic": "null",
+    "name": "Ayollar Ahkomlari kitobi sharhi",
+    "count": 37,
+    "category": "ayollar",
+    "continue": "false"
+  },
+  {
+    "id": "29",
+    "pic": "null",
+    "name": "Umdatul Ahkom kitobi sharhi",
+    "count": 200,
+    "category": "fiqh",
+    "continue": "false"
+  },
+  {
+    "id": "30",
+    "pic": "null",
+    "name": "Nafs Fiqhi darsi",
+    "count": 92,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "31",
+    "pic": "null",
+    "name": "odobul Mufrod",
+    "count": 165,
+    "category": "odob",
+    "continue": "false"
+  },
+  {
+    "id": "32",
+    "pic": "null",
+    "name": "Sunani Ibn Moja",
+    "count": 400,
+    "category": "hadis",
+    "continue": "false"
+  },
+  {
+    "id": "33",
+    "pic": "null",
+    "name": "Xulafoi Roshidinlar siyrati",
+    "count": 63,
+    "category": "siyrat",
+    "continue": "false"
+  },
+  {
+    "id": "34",
+    "pic": "null",
+    "name": "Dard va Davo sharhi",
+    "count": 78,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "35",
+    "pic": "null",
+    "name": "Qur'on Qissalaridan ibratlar",
+    "count": 187,
+    "category": "tafsir",
+    "continue": "false"
+  },
+  {
+    "id": "36",
+    "pic": "null",
+    "name": "Sekulyarizm Islom mezonida",
+    "count": 25,
+    "category": "siyosiy",
+    "continue": "false"
+  },
+  {
+    "id": "37",
+    "pic": "null",
+    "name": "Konsitutsiya Islom ko'zoynagida",
+    "count": 21,
+    "category": "siyosiy",
+    "continue": "false"
+  },
+  {
+    "id": "38",
+    "pic": "null",
+    "name": "Umaviylar Xilofoti",
+    "count": 31,
+    "category": "tarix",
+    "continue": "false"
+  },
+  {
+    "id": "39",
+    "pic": "null",
+    "name": "Bahjatul Majalis",
+    "count": 70,
+    "category": "odob",
+    "continue": "false"
+  },
+  {
+    "id": "40",
+    "pic": "null",
+    "name": "Soydul Xotir",
+    "count": 101,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "41",
+    "pic": "null",
+    "name": "Ayollar Ahkomlari",
+    "count": 151,
+    "category": "ayollar",
+    "continue": "false"
+  },
+  {
+    "id": "42",
+    "pic": "null",
+    "name": "Abbosiylar Tarixi",
+    "count": 86,
+    "category": "tarix",
+    "continue": "false"
+  },
+  {
+    "id": "43",
+    "pic": "null",
+    "name": "Din va Dunyo odobi",
+    "count": 77,
+    "category": "odob",
+    "continue": "false"
+  },
+  {
+    "id": "44",
+    "pic": "null",
+    "name": "Sunanu Nasoiy",
+    "count": 272,
+    "category": "hadis",
+    "continue": "false"
+  },
+  {
+    "id": "45",
+    "pic": "null",
+    "name": "Mamlukiylar Tarixi",
+    "count": 24,
+    "category": "tarix",
+    "continue": "false"
+  },
+  {
+    "id": "46",
+    "pic": "null",
+    "name": "Usmoniylar Tarixi",
+    "count": 44,
+    "category": "tarix",
+    "continue": "false"
+  },
+  {
+    "id": "47",
+    "pic": "null",
+    "name": "Sahobalar Hayoti",
+    "count": 270,
+    "category": "siyrat",
+    "continue": "true"
+  },
+  {
+    "id": "48",
+    "pic": "null",
+    "name": "Termiziy Sunani sharhi",
+    "count": 325,
+    "category": "hadis",
+    "continue": "false"
+  },
+  {
+    "id": "49",
+    "pic": "null",
+    "name": "Asmoul Husna",
+    "count": 169,
+    "category": "tazkiya",
+    "continue": "false"
+  },
+  {
+    "id": "51",
+    "pic": "null",
+    "name": "Qur'on Karim Tafsiri",
+    "count": 531,
+    "category": "tafsir",
+    "continue": "true"
+  }
+]
