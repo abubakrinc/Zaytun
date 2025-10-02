@@ -1,52 +1,64 @@
 [{
     "id":"1",
     "name":"Barcha darsliklar",
+    "selected":"false",    
     "option":""
 },
 {
     "id":"2",
     "name":"Aqida",
+    "selected":"false",    
     "option":"aqida"
 },
 {
     "id":"3",
     "name":"Fiqh",
+    "selected":"false",    
     "option":"fiqh"
 },
 {
     "id":"4",
     "name":"Tafsir",
+    "selected":"false",    
     "option":"tafsir"
 },{
     "id":"5",
     "name":"Siyrat",
+    "selected":"false",    
     "option":"siyrat"
 },{
     "id":"6",
     "name":"Tarix",
+    "selected":"false",    
     "option":"tarix"
 },{
     "id":"7",
     "name":"Hadis",
+    "selected":"false",    
     "option":"hadis"
 },{
     "id":"8",
     "name":"Odob",
+    "selected":"false",    
     "option":"odob"
 },{
     "id":"9",
     "name":"Asmoul Husna",
+    "selected":"false",    
     "option":"asmoul-husna"
 },{
     "id":"10",
     "name":"Siyosiy, Hukm",
+    "selected":"false",    
     "option":"siyosiy"
 },{
     "id":"11",
     "name":"Tushlar Tabiri",
+    "selected":"false",    
     "option":"tush-tabiri"
 },{
     "id":"12",
     "name":"Savol Javoblar",
+    "selected":"false",    
     "option":"savol"
 }]
